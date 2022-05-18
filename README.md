@@ -8,7 +8,7 @@
 <div align="center"><h3>Connect to me</h3></div><br />
 
 <div align="center">
-	<a href=" https://twitter.com/avasarala_kiran?t=Q1yV5XQWGdt3OO_04fTl6Q&s=09">
+	<a href=" https://twitter.com/avasarala_kiran">
 		<img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/twitter.png"></a>&nbsp; &nbsp;
 	<a href="https://www.linkedin.com/in/dinesh-somaraju-089b66194/"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/linkedin.png"></a>&nbsp; &nbsp;
 	<a href="https://www.instagram.com/dinesh99639/"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/instagram.png"></a>&nbsp; &nbsp;
