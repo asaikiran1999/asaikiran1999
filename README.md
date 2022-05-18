@@ -2,14 +2,7 @@
 <hr/>
 
 <div align="center"><h3>My Skillset</h3></div><br/>
-<div align="center">
-	<img width="5%" src="./icons/skills/HTML.svg">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="5.6%" src="./icons/skills/JavaScript.svg">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="8.3%" src="./icons/skills/NodeJS.svg">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="6%" src="./icons/skills/ReactJS.svg">	
+<div align="center"><img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">	
 </div>
 <br />
 
