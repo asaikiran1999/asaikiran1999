@@ -5,18 +5,10 @@
 <div align="center"><img src="20220518_170805_0000.jpg" alt="Girl in a jacket" width="500" height="600">	
 </div>
 <br />
-
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-	<img width="18%" src="./icons/skills/ExpressJS.svg">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="18%" src="./icons/skills/MongoDB.svg">
-</div>
-<br />
-
 <div align="center"><h3>Connect to me</h3></div><br />
 
 <div align="center">
-	<a href="https://twitter.com/DineshSomaraju"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/twitter.png"></a>&nbsp; &nbsp;
+	<a href=" https://twitter.com/avasarala_kiran?t=Q1yV5XQWGdt3OO_04fTl6Q&s=09"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/twitter.png"></a>&nbsp; &nbsp;
 	<a href="https://www.linkedin.com/in/dinesh-somaraju-089b66194/"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/linkedin.png"></a>&nbsp; &nbsp;
 	<a href="https://www.instagram.com/dinesh99639/"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/instagram.png"></a>&nbsp; &nbsp;
 	<a href="https://www.facebook.com/dinesh.somaraju.7"><img height="40" width="40" src="https://raw.githubusercontent.com/dinesh99639/dinesh99639/master/icons/facebook.png"></a>&nbsp; &nbsp;
