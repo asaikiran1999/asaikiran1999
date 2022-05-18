@@ -1,4 +1,4 @@
-<h3 align="center"><b>Dinesh Somaraju</b></h3>
+<h3 align="center"><b>Avasarala Sai Kiran</b></h3>
 <hr/>
 
 <div align="center"><h3>My Skillset</h3></div><br/>
