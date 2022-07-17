@@ -1,7 +1,7 @@
 
 
 
-<h3 align="center"><b>Avasarala Sai Kiran</b></h3>
+<h3 align="center"><b>Sai Kiran Avasarala</b></h3>
 <hr/>
 <h3 align="center"><b>Projects I DID ! </b></h3>
 <h4 align="center"><b><a href="https://github.com/asaikiran1999/Medical-Sample-collection-process-Streamline">1.Medical Sample Collection Process Streamline</a></b></h4>
