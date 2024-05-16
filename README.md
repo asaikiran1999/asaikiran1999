@@ -10,7 +10,5 @@
 <h4 align="center"><b><a href="https://github.com/asaikiran1999/amazon_product_analyser">4.Amazon Product Analyser</a></b></h4>
 <h4 align="center"><b><a href="https://github.com/asaikiran1999/Credit-Analysis-of-Retailers-Segmentation">5.Credit Analysis of Retailers Segmentation</a></b></h4>
 <div align="center"><h3>My Skillset</h3></div><br/>
-<div align="center"><img src="20220518_170805_0000.jpg"  width="500" height="600">	
-</div>
 ](https://asaikiran1999.github.io/avasaralasakiran/)
 
