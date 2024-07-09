@@ -20,32 +20,6 @@ Data Analyst with experience using technical know-how to support business object
 - **Advanced SQL Certification**
 - Member of Scaler Slack, staying updated on real-world opportunities.
 
----
-
-## Professional Experience
-
-### Intern as R&D Lead
-**TSBRIDEEDU**  
-*February 2023 - Present*  
-- Developed a Power BI dashboard for the TS State Government's rural development statistics.
-- Conducted market research and developed a startup model to organize the unorganized salon sector.
-
-### Intern as Data Scientist
-**Innodatatics**  
-*January 2024 - May 2024*  
-- Worked on Diagnoptimizer, a project to optimize schedules for diagnostic center agents using Python, CSS, and Streamlit Framework.
-- Implemented unsupervised learning (K-means clustering) to solve scheduling problems.
-
-### Self-Improvement
-*January 2022 - July 2022*  
-- Worked on content creation for Python and data-driven technologies through the YouTube channel "QuickLearnPython".
-- Strengthened depth in Python and SQL concepts.
-- Completed Scaler DSML course covering in-depth concepts of statistics and business acumen.
-- IBM ML certified, gaining an understanding of supervised and unsupervised machine learning algorithms.
-- Recently attended a workshop on Power BI and Data Analytics.
-
----
-
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
@@ -57,27 +31,13 @@ Data Analyst with experience using technical know-how to support business object
 - **Technologies:** Working with APIs, Web-scraping, Recommendation Engines, Machine Learning algorithms, NLP applications
 - **Other Skills:** Teaching technologies, Algebra, Calculus
 
----
-
-## Projects
-
-### Diagnoptimizer
-**Technologies Used:** Python, CSS, Streamlit Framework  
-**Objective:** Optimize schedules for diagnostic center agents for sample collection.  
-**Method:** Utilized unsupervised learning (K-means clustering) to sort agents by patient availability.
-
----
-
 ## Contact
 
-- **Phone:** 7981999651
 - **Email:** [avasaralasaikiran@gmail.com](mailto:avasaralasaikiran@gmail.com)
 - **LinkedIn:** [Sai Kiran Avasarala](https://www.linkedin.com/in/sai-kiran-avasarala/)
 - **GitHub:** [asaikiran1999](https://github.com/asaikiran1999)
 - **YouTube:** [QuickLearnPython](https://www.youtube.com/@quicklearnpython)
 - **Portfolio:** [Personal Website](https://asaikiran1999.github.io/avasaralasakiran/)
-
----
 
 ## Recent Activity
 - [LinkedIn Post - Expert Mock Interview Cleared](https://www.linkedin.com/posts/sai-kiran-avasarala_expert-mock-interview-cleared-certificate-activity-7158662339632738304-lO9s?utm_source=share&utm_medium=member_desktop)
