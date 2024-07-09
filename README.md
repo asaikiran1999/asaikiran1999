@@ -1,14 +1,84 @@
+# Avasarala Sai Kiran - Data Analyst
 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=web&logoColor=white)
 
+## About Me
+Data Analyst with experience using technical know-how to support business objectives and resolve challenging issues. Expert in exploratory data analysis, Power BI, Python, SQL, Excel, and other data-driven tools. Proficient in visualizing asynchronous data and extracting actionable insights. Experience and foundational understanding of machine learning, deep learning, and natural language processing algorithms to structure solutions as necessary.
 
-[<h3 align="center"><b>Sai Kiran Avasarala</b></h3>
-<hr/>
-<h3 align="center"><b>Projects I DID ! </b></h3>
-<h4 align="center"><b><a href="https://github.com/asaikiran1999/Medical-Sample-collection-process-Streamline">1.Medical Sample Collection Process Streamline</a></b></h4>
-<h4 align="center"><b><a href="https://github.com/asaikiran1999/diagnostic-center-agents-sheduling">2.Appointment Scheduler for Sample Collection</a></b></h4>
-<h4 align="center"><b><a href="https://github.com/asaikiran1999/books-recommender/tree/main">3.Books Recommender</a></b></h4>
-<h4 align="center"><b><a href="https://github.com/asaikiran1999/amazon_product_analyser">4.Amazon Product Analyser</a></b></h4>
-<h4 align="center"><b><a href="https://github.com/asaikiran1999/Credit-Analysis-of-Retailers-Segmentation">5.Credit Analysis of Retailers Segmentation</a></b></h4>
-<div align="center"><h3>My Skillset</h3></div><br/>
-](https://asaikiran1999.github.io/avasaralasakiran/)
+---
 
+## Education
+
+### Bachelor of Technology in Computer Science
+**ANITS, Visakhapatnam**  
+*2017 - 2021*
+
+---
+
+## Certifications
+- **Advanced Python Certification**
+- **Advanced SQL Certification**
+- Member of Scaler Slack, staying updated on real-world opportunities.
+
+---
+
+## Professional Experience
+
+### Intern as R&D Lead
+**TSBRIDEEDU**  
+*February 2023 - Present*  
+- Developed a Power BI dashboard for the TS State Government's rural development statistics.
+- Conducted market research and developed a startup model to organize the unorganized salon sector.
+
+### Intern as Data Scientist
+**Innodatatics**  
+*January 2024 - May 2024*  
+- Worked on Diagnoptimizer, a project to optimize schedules for diagnostic center agents using Python, CSS, and Streamlit Framework.
+- Implemented unsupervised learning (K-means clustering) to solve scheduling problems.
+
+### Self-Improvement
+*January 2022 - July 2022*  
+- Worked on content creation for Python and data-driven technologies through the YouTube channel "QuickLearnPython".
+- Strengthened depth in Python and SQL concepts.
+- Completed Scaler DSML course covering in-depth concepts of statistics and business acumen.
+- IBM ML certified, gaining an understanding of supervised and unsupervised machine learning algorithms.
+- Recently attended a workshop on Power BI and Data Analytics.
+
+---
+
+## Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+
+- **Programming:** Python, SQL, Excel, Power BI
+- **Technologies:** Working with APIs, Web-scraping, Recommendation Engines, Machine Learning algorithms, NLP applications
+- **Other Skills:** Teaching technologies, Algebra, Calculus
+
+---
+
+## Projects
+
+### Diagnoptimizer
+**Technologies Used:** Python, CSS, Streamlit Framework  
+**Objective:** Optimize schedules for diagnostic center agents for sample collection.  
+**Method:** Utilized unsupervised learning (K-means clustering) to sort agents by patient availability.
+
+---
+
+## Contact
+
+- **Phone:** 7981999651
+- **Email:** [avasaralasaikiran@gmail.com](mailto:avasaralasaikiran@gmail.com)
+- **LinkedIn:** [Sai Kiran Avasarala](https://www.linkedin.com/in/sai-kiran-avasarala/)
+- **GitHub:** [asaikiran1999](https://github.com/asaikiran1999)
+- **YouTube:** [QuickLearnPython](https://www.youtube.com/@quicklearnpython)
+- **Portfolio:** [Personal Website](https://asaikiran1999.github.io/avasaralasakiran/)
+
+---
+
+## Recent Activity
+- [LinkedIn Post - Expert Mock Interview Cleared](https://www.linkedin.com/posts/sai-kiran-avasarala_expert-mock-interview-cleared-certificate-activity-7158662339632738304-lO9s?utm_source=share&utm_medium=member_desktop)
+- [LinkedIn Post - Power BI Certificate](https://www.linkedin.com/posts/sai-kiran-avasarala_powerbi-powerbi-certificateofachievement-activity-7215750951830212608-RmYH?utm_source=share&utm_medium=member_desktop)
