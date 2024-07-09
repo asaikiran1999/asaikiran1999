@@ -22,9 +22,9 @@ Data Analyst with experience using technical know-how to support business object
 
 ## Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)(https://www.linkedin.com/posts/sai-kiran-avasarala_expert-mock-interview-cleared-certificate-activity-7158662339632738304-lO9s?utm_source=share&utm_medium=member_desktop) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)(https://moonshot.scaler.com/s/sl/yfTAmnCUPg) 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=white)(https://www.linkedin.com/posts/sai-kiran-avasarala_powerbi-powerbi-certificateofachievement-activity-7215750951830212608-RmYH/?utm_source=share&utm_medium=member_desktop) 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.linkedin.com/posts/sai-kiran-avasarala_expert-mock-interview-cleared-certificate-activity-7158662339632738304-lO9s?utm_source=share&utm_medium=member_desktop) 
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)](https://moonshot.scaler.com/s/sl/yfTAmnCUPg) 
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=white)](https://www.linkedin.com/posts/sai-kiran-avasarala_powerbi-powerbi-certificateofachievement-activity-7215750951830212608-RmYH/?utm_source=share&utm_medium=member_desktop) 
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 
 - **Programming:** Python, SQL, Excel, Power BI
